@@ -10,7 +10,7 @@
     * **[Ćwiczenie 2.3](https://drive.google.com/file/d/1nv-K8FDJsmen7s-DpoirHDvDJGUQB2ol/view?usp=sharing)** _- Wyświetlanie znaków w tablicy w kolejności odwrotnej sposób pierwszy_
     * **[Ćwiczenie 2.4](https://drive.google.com/file/d/1nk8rfgZgXZIcjHBbTFJITAsJUL4hMQdc/view?usp=sharing)** _- Wyświetlanie znaków w tablicy w kolejności odwrotnej sposób drugi_ 
     * **[Ćwiczenie 2.5](https://drive.google.com/file/d/1TcWzFQAm4vkk4ZeRhW4QeKfBS5O3tRQt/view?usp=sharing)** _- Wykorzystanie klasy Character w tablicy znaków_
-    * **[Ćwiczenie 2.6]()** _- Stworzenie dziesięcioelementowej tablicy znaków i wypełnienie jej cyframi od 0 do 9_
+    * **[Ćwiczenie 2.6](https://drive.google.com/file/d/1KF-Ac9i5j3m5whpJJTwOkH0IjeaMI9IM/view?usp=sharing)** _- Stworzenie dziesięcioelementowej tablicy znaków i wypełnienie jej cyframi od 0 do 9_
     * **[Ćwiczenie 2.7]()** _- Stworzenie szesnastoelementowej tablicy znakó i wypełnienie jej cyframi układu szesnastkowego_
 * **Operacje na tekstach - klasa String**
     * **[Ćwiczenie 3.0]()** _- Metody klasy String na podstawie łańcucha znaków 'zadania z programowania'_
