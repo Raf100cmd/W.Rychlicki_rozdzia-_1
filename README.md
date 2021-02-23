@@ -1,7 +1,7 @@
 # W.Rychlicki_rozdzial_1
 **Programy:**
 * **Tworzenie wizytówki**
-    * **[Ćwiczenie 1.0]()** _- Wyświetlanie adresu_
+    * **[Ćwiczenie 1.0](https://drive.google.com/file/d/10xQwAQX1932_Mu7CKKA5fiIgaBeDIx5g/view?usp=sharing)** _- Wyświetlanie adresu_
     * **[Ćwiczenie 1.1]()** _- Stworzenie etykiety_
 * **Znaki, tablice znaków oraz klasa String**
     * **[Ćwiczenie 2.0]()** _- Stworzenie tablicy znaków ze słowem 'Dzień dobry'_
