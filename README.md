@@ -18,9 +18,8 @@
     * **[Ćwiczenie 3.2](https://drive.google.com/file/d/1wnFVUNwCdH6HGslvj91gZIoySXKED2C3/view?usp=sharing)** _- Utworzenie łańcucha znaków o nazwie 'programowanie' i jego modyfikacja_
     * **[Ćwiczenie 3.3](https://drive.google.com/file/d/1EB34NBAD4bvBwAwA8kQYJPDNbr4iWHoP/view?usp=sharing)** _- Odwórcenie kolejności znaków w stworzonym łańcuchu znaków 'Programista poszukwany. Pilnie !!!'_
     * **[Ćwiczenie 3.4](https://drive.google.com/file/d/1j4vbqa4ExMvu7UFY3sn-sxzTVLw2FK3g/view?usp=sharing)** _- Utworzenie lancuch znaków zawierającego slowo 'programowanie w jezyku java' i jego wyświetlenie w kolejności odwrotnej_
-    * **[Ćwiczenie 3.5]()** _- Utworzenie łańcucha znaków wypełnionego cyframi i jego modyfikacja_
-    * **[Ćwiczenie 3.6]()** _- Modyfikacja łańcucha znaków wypełnionymi cyframi - ciągi malejące i rosnące_
-    * **[Ćwiczenie 3.7]()** _- Utworzenie ciągu znaków wypełnionego cyframi układu szesnastkowego_
+    * **[Ćwiczenie 3.5]()** _- Utworzenie łańcucha znaków wypełnionego cyframi i jego modyfikacja (ciągi malejące i rosnące, ciągi napisane w wierszu i kolumnie)_
+    * **[Ćwiczenie 3.6]()** _- Utworzenie ciągu znaków wypełnionego cyframi układu szesnastkowego_    
 * **Tablica argumentów aplikacji**
     * **[Ćwiczenie 4.0]()** _- Stworzenie programu wypisującego inicjały, login, personalia na podstawie dwóch parametrów_ 
     * **[Ćwiczenie 4.1]()** _- Stworzenie programu wypisującego inicjały, login, personalia na podstawie dwóch parametrów podanych przez użytkownika_
