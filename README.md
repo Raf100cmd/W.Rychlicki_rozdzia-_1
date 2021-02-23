@@ -6,7 +6,7 @@
 * **Znaki, tablice znaków oraz klasa String**
     * **[Ćwiczenie 2.0](https://drive.google.com/file/d/1gwywhvq5o9QT_LGtAUy2-1TB0XZluqFw/view?usp=sharing)** _- Stworzenie tablicy znaków ze słowem 'Dzień dobry'_
     * **[Ćwiczenie 2.1](https://drive.google.com/file/d/17Q8FW79ZRZacEkLwL05seoyDVcSPzsYA/view?usp=sharing)** _- Wyświetlanie znaków w stworzonej tablicy 'Informatyka' w sposób poziomy i pionowy_
-    * **[Ćwiczenie 2.2]()** _- Stworzenie tablicy znaków ze słowem 'programowanie' oraz jej modyfikacja_
+    * **[Ćwiczenie 2.2](https://drive.google.com/file/d/1guDtGcCPjxUlLehr-BDniqqjIY1bIq4_/view?usp=sharing)** _- Stworzenie tablicy znaków ze słowem 'programowanie' oraz jej modyfikacja_
     * **[Ćwiczenie 2.3]()** _- Wyświetlanie znaków w tablicy w kolejności odwrotnej sposób pierwszy_
     * **[Ćwiczenie 2.4]()** _- Wyświetlanie znaków w tablicy w kolejności odwrotnej sposób drugi_ 
     * **[Ćwiczenie 2.5]()** _- Wykorzystanie klasy Character w tablicy znaków_
