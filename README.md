@@ -28,4 +28,4 @@
     * **[Ćwiczenie 4.4](https://drive.google.com/file/d/1OBgIzHmIxTa021UvbU4fefa2IY-mVb5J/view?usp=sharing)** _- Stworzenie programu wyświetlającego na ekranie etykietkę zawierającą: imię i nazwisko podane jako parametry wywolania aplikacji_
 * **Logiczny typ danych - _prawda czy fałsz_**
     * **[Ćwiczenie 5.0](https://drive.google.com/file/d/1jtxctsuTcXauu9NxvhUPVmTEAe4LyDN5/view?usp=sharing)** _- Stworzenie programu wyświetlającego w formie tabeli działanie operatorów logicznych_
-    * **[Ćwiczenie 5.1]()** _-Stworzenie programu przedstawiającego w sposób tabelaryczny prawo wyłączonego środka, prawo niesprzeczności i prawo podwójnego przeczenia_
+    * **[Ćwiczenie 5.1](https://drive.google.com/file/d/1Q6AuqlG_8OR7ksVg5gTaPMNcpEJycOL1/view?usp=sharing)** _-Stworzenie programu przedstawiającego w sposób tabelaryczny prawo wyłączonego środka, prawo niesprzeczności i prawo podwójnego przeczenia_
