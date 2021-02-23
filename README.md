@@ -13,7 +13,7 @@
     * **[Ćwiczenie 2.6](https://drive.google.com/file/d/1KF-Ac9i5j3m5whpJJTwOkH0IjeaMI9IM/view?usp=sharing)** _- Stworzenie dziesięcioelementowej tablicy znaków i wypełnienie jej cyframi od 0 do 9_
     * **[Ćwiczenie 2.7](https://drive.google.com/file/d/1E8KUCGKD5MjG_OTunwO6a48HPRgjVOsO/view?usp=sharing)** _- Stworzenie szesnastoelementowej tablicy znakó i wypełnienie jej cyframi układu szesnastkowego_
 * **Operacje na tekstach - klasa String**
-    * **[Ćwiczenie 3.0]()** _- Metody klasy String na podstawie łańcucha znaków 'zadania z programowania'_
+    * **[Ćwiczenie 3.0](https://drive.google.com/file/d/1h22v6okPXQczjYKDPVW8fOLlCVXkT8qA/view?usp=sharing)** _- Metody klasy String na podstawie łańcucha znaków 'zadania z programowania'_
     * **[Ćwiczenie 3.1]()** _- Utworzenie łańcucha znaków o nazwie 'Dzień dobry'_
     * **[Ćwiczenie 3.2]()** _- Utworzenie łańcucha znaków o nazwie 'programowanie' i jego modyfikacja_
     * **[Ćwiczenie 3.3]()** _- Odwórcenie kolejności znaków w stworzonym łańcuchu znaków 'Programista poszukwany. Pilnie !!!'_
