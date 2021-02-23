@@ -1,1 +1,1 @@
-# W.Rychlicki_rozdzia-_1
+# W.Rychlicki_rozdzial_1
