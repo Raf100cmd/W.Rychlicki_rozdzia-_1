@@ -21,7 +21,7 @@
     * **[Ćwiczenie 3.5](https://drive.google.com/file/d/1NiqTcYyLa4PDVWINvtA7l348GHmAzY8j/view?usp=sharing)** _- Utworzenie łańcucha znaków wypełnionego cyframi i jego modyfikacja (ciągi malejące i rosnące, ciągi napisane w wierszu i kolumnie)_
     * **[Ćwiczenie 3.6](https://drive.google.com/file/d/1WRnbsX133ZBGeHoYma6vvHVR_l0xqDuW/view?usp=sharing)** _- Utworzenie ciągu znaków wypełnionego cyframi układu szesnastkowego_    
 * **Tablica argumentów aplikacji**
-    * **[Ćwiczenie 4.0]()** _- Stworzenie programu wypisującego inicjały, login, personalia na podstawie dwóch parametrów_ 
+    * **[Ćwiczenie 4.0](https://drive.google.com/file/d/1LyJD9R5UI2_qJt4Pvb810Q24Ce6E185B/view?usp=sharing)** _- Stworzenie programu wypisującego inicjały, login, personalia na podstawie dwóch parametrów_ 
     * **[Ćwiczenie 4.1]()** _- Stworzenie programu wypisującego inicjały, login, personalia na podstawie dwóch parametrów podanych przez użytkownika_
     * **[Ćwiczenie 4.2]()** _- Stworzenie programu z listą argumentów wyświetloną w odwrotnej kolejności_
     * **[Ćwiczenie 4.3]()** _- Stworzenie programu z kilkoma argumentami wypisanymi w odrębnym wierszu i odwrotnej kolejności znaków w argumencie_ 
