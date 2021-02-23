@@ -28,3 +28,4 @@
     * **[Ćwiczenie 4.3]()** _- Stworzenie programu z kilkoma argumentami wypisanymi w odrębnym wierszu i odwrotnej kolejności znaków w argumencie_ 
     * **[Ćwiczenie 4.4]()** _- Stworzenie programu wyświetlającego na ekranie etykietkę zawierającą: imię i nazwisko podane jako parametry wywolania aplikacji_
 * **Logiczny typ danych - _prawda czy fałsz_**
+    * **[Ćwiczenie 5.0]()** _- Stworzenie programu wyświetlającego w formie tabeli działanie operatorów logicznych_
