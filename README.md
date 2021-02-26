@@ -25,7 +25,7 @@
     * **[Ćwiczenie 4.1](https://drive.google.com/file/d/1fq6tKbqvihVu-NPz-pkJ4D5wOgSy0ryX/view?usp=sharing)** _- Stworzenie programu wypisującego inicjały, login, personalia na podstawie dwóch parametrów podanych przez użytkownika_
     * **[Ćwiczenie 4.2](https://drive.google.com/file/d/1gJ2QGaW0q3bZ2PGbm6j8MapSKhr8syEA/view?usp=sharing)** _- Stworzenie programu z listą argumentów wyświetloną w odwrotnej kolejności_
     * **[Ćwiczenie 4.3](https://drive.google.com/file/d/1MNZ9Y8Kld6tjSFDTtUmPutdbG9h1Brwh/view?usp=sharing)** _- Stworzenie programu z kilkoma argumentami wypisanymi w odrębnym wierszu i odwrotnej kolejności znaków w argumencie_ 
-    * **[Ćwiczenie 4.4](https://drive.google.com/file/d/1OBgIzHmIxTa021UvbU4fefa2IY-mVb5J/view?usp=sharing)** _- Stworzenie programu wyświetlającego na ekranie etykietkę zawierającą: imię i nazwisko podane jako parametry wywolania aplikacji_
+    * **[Ćwiczenie 4.4](https://drive.google.com/file/d/1OBgIzHmIxTa021UvbU4fefa2IY-mVb5J/view?usp=sharing)** _- Stworzenie programu wyświetlającego na ekranie etykietkę zawierającą: imię i nazwisko podane jako parametry wywołania aplikacji_
 * **Logiczny typ danych - _prawda czy fałsz_**
     * **[Ćwiczenie 5.0](https://drive.google.com/file/d/1jtxctsuTcXauu9NxvhUPVmTEAe4LyDN5/view?usp=sharing)** _- Stworzenie programu wyświetlającego w formie tabeli działanie operatorów logicznych_
     * **[Ćwiczenie 5.1](https://drive.google.com/file/d/1Q6AuqlG_8OR7ksVg5gTaPMNcpEJycOL1/view?usp=sharing)** _-Stworzenie programu przedstawiającego w sposób tabelaryczny prawo wyłączonego środka, prawo niesprzeczności i prawo podwójnego przeczenia_
