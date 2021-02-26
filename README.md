@@ -11,13 +11,13 @@
     * **[Ćwiczenie 2.4](https://drive.google.com/file/d/1nk8rfgZgXZIcjHBbTFJITAsJUL4hMQdc/view?usp=sharing)** _- Wyświetlanie znaków w tablicy w kolejności odwrotnej sposób drugi_ 
     * **[Ćwiczenie 2.5](https://drive.google.com/file/d/1TcWzFQAm4vkk4ZeRhW4QeKfBS5O3tRQt/view?usp=sharing)** _- Wykorzystanie klasy Character w tablicy znaków_
     * **[Ćwiczenie 2.6](https://drive.google.com/file/d/1KF-Ac9i5j3m5whpJJTwOkH0IjeaMI9IM/view?usp=sharing)** _- Stworzenie dziesięcioelementowej tablicy znaków i wypełnienie jej cyframi od 0 do 9_
-    * **[Ćwiczenie 2.7](https://drive.google.com/file/d/1E8KUCGKD5MjG_OTunwO6a48HPRgjVOsO/view?usp=sharing)** _- Stworzenie szesnastoelementowej tablicy znakó i wypełnienie jej cyframi układu szesnastkowego_
+    * **[Ćwiczenie 2.7](https://drive.google.com/file/d/1E8KUCGKD5MjG_OTunwO6a48HPRgjVOsO/view?usp=sharing)** _- Stworzenie szesnastoelementowej tablicy znaków i wypełnienie jej cyframi układu szesnastkowego_
 * **Operacje na tekstach - klasa String**
     * **[Ćwiczenie 3.0](https://drive.google.com/file/d/1h22v6okPXQczjYKDPVW8fOLlCVXkT8qA/view?usp=sharing)** _- Metody klasy String na podstawie łańcucha znaków 'zadania z programowania'_
     * **[Ćwiczenie 3.1](https://drive.google.com/file/d/1vUk0_xs9xoTFKlwhAkVJWoXYC9QYshzP/view?usp=sharing)** _- Utworzenie łańcucha znaków o nazwie 'Dzień dobry'_
     * **[Ćwiczenie 3.2](https://drive.google.com/file/d/1wnFVUNwCdH6HGslvj91gZIoySXKED2C3/view?usp=sharing)** _- Utworzenie łańcucha znaków o nazwie 'programowanie' i jego modyfikacja_
     * **[Ćwiczenie 3.3](https://drive.google.com/file/d/1EB34NBAD4bvBwAwA8kQYJPDNbr4iWHoP/view?usp=sharing)** _- Odwórcenie kolejności znaków w stworzonym łańcuchu znaków 'Programista poszukwany. Pilnie !!!'_
-    * **[Ćwiczenie 3.4](https://drive.google.com/file/d/1j4vbqa4ExMvu7UFY3sn-sxzTVLw2FK3g/view?usp=sharing)** _- Utworzenie lancuch znaków zawierającego slowo 'programowanie w jezyku java' i jego wyświetlenie w kolejności odwrotnej_
+    * **[Ćwiczenie 3.4](https://drive.google.com/file/d/1j4vbqa4ExMvu7UFY3sn-sxzTVLw2FK3g/view?usp=sharing)** _- Utworzenie łancucha znaków zawierającego słowo 'programowanie w jezyku java' i jego wyświetlenie w kolejności odwrotnej_
     * **[Ćwiczenie 3.5](https://drive.google.com/file/d/1NiqTcYyLa4PDVWINvtA7l348GHmAzY8j/view?usp=sharing)** _- Utworzenie łańcucha znaków wypełnionego cyframi i jego modyfikacja (ciągi malejące i rosnące, ciągi napisane w wierszu i kolumnie)_
     * **[Ćwiczenie 3.6](https://drive.google.com/file/d/1WRnbsX133ZBGeHoYma6vvHVR_l0xqDuW/view?usp=sharing)** _- Utworzenie ciągu znaków wypełnionego cyframi układu szesnastkowego_    
 * **Tablica argumentów aplikacji**
