@@ -29,4 +29,4 @@
 * **Logiczny typ danych - _prawda czy fałsz_**
     * **[Ćwiczenie 5.0](https://drive.google.com/file/d/1jtxctsuTcXauu9NxvhUPVmTEAe4LyDN5/view?usp=sharing)** _- Stworzenie programu wyświetlającego w formie tabeli działanie operatorów logicznych_
     * **[Ćwiczenie 5.1](https://drive.google.com/file/d/1Q6AuqlG_8OR7ksVg5gTaPMNcpEJycOL1/view?usp=sharing)** _-Stworzenie programu przedstawiającego w sposób tabelaryczny prawo wyłączonego środka, prawo niesprzeczności i prawo podwójnego przeczenia_
-* **[Link do plików z zadaniami]()**
+* **[Link do plików z zadaniami](https://github.com/Raf100cmd/KursGit/tree/master/%C4%86wiczenia%20W.Rychlicki%20-%20rozdzia%C5%82%201)**
